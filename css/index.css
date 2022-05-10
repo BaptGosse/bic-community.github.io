@@ -1,0 +1,111 @@
+nav{
+	text-decoration: none;
+	box-shadow: 0 16px 8px #D3D3D3;
+}
+ul{
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+.icon{
+	display: inline-block;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+.home{
+	text-decoration: none	
+}
+.logo{
+	width: 100px;
+	height: 100px;
+}
+.liens{
+	float: right;
+	width: 70%;
+	height: 100px;
+}
+nav li{
+	display: inline-block;
+	text-decoration: none;
+	padding-top: 25px;
+	width: 170px;
+	text-align: center;
+}
+.accueil{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	width: 75px;
+}
+.accueil:hover{
+	text-decoration: underline;
+	color: black;
+}
+.marque{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	width: 130px;
+}
+.marque:hover{
+	text-decoration: underline;
+	color: black;
+}
+.couleur{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	width: 130px;
+}
+.couleur:hover{
+	text-decoration: underline;
+	color: black;
+}
+.histoire{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	width: 100px;
+}
+.histoire:hover{
+	text-decoration: underline;
+	color: black;
+}
+.remerciements{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	width: 170px;
+}
+.remerciements:hover{
+	text-decoration: underline;
+	color: black;
+}
+.partie-1{
+	diplay: inline-block;
+	text-align: center;
+	padding-top: 20px;
+}
+.couleur-exacte{
+	display: inline-block;
+	text-align: justify;
+	width: 50%;
+}
+.couleur-para{
+	text-align: center;
+	width: 100%;
+}
+.footer{
+	text-align: center;
+}
+.stylo-bic{
+	display: block;
+	
+}
+.bic-creation{
+	display: block;
+}
+.copyright{
+	color: #405B9F
+}
